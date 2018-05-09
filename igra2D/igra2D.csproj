@@ -224,6 +224,8 @@
     <Compile Include="Assets\IgraceKontrole.cs" />
     <Compile Include="Assets\pomicanjePodloge.cs" />
     <Compile Include="Assets\pratiIgraca.cs" />
+    <Compile Include="Assets\ScoreUp.cs" />
+    <Compile Include="Assets\SudarSkripta.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
